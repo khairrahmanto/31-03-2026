@@ -1,0 +1,21 @@
+/*mobile*/
+@media only  screen and (min-width : 480px){
+    body {
+        background-color:
+        aqua;
+    }
+    h1 {font-size: larger;}
+}
+/*tablet*/
+@media only  screen and (min-width : 768px){
+     body {
+    background-color:rgb(51, 153, 144);}
+    h1 {font-size: larger;}
+}
+/*laptop*/
+@media only  screen and (min-width : 1024px){
+    body {
+        background-color:rgba(0, 251, 255, 0.385);
+    }
+    h1 {font-size: larger;}
+}
